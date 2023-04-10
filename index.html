@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Course List</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+    <div class="header">
+      <h1>Course List</h1>
+    </div>
+    <div class="menu">
+        <h2>Tugas Arsitektur dan Teknologi Big Data</h2>
+        <h5>Nama : Ahmad Zaki Firdaus</h5>
+        <h5>NIM : 21/479669/PA/20795</h5>
+      </div>
+      
+      <div class="content">
+      <button onclick="loadDoc()" id="loadButton">Load Data</button>
+      <table id="courseTable">
+        <tr>
+          <th>Course ID</th>
+          <th>Title</th>
+          <th>Department Name</th>
+          <th>Credits</th>
+        </tr>
+      </table>
+    </div>
+
+    <script src="script.js"></script>
+    <button onclick="ShowHideDoc()">Show / Hide</button>
+
+    <script>
+      function ShowHideDoc() {
+          var table = document.getElementById("courseTable");
+          if (table.style.display == "none") {
+          table.style.display = "block";
+          } else {
+          table.style.display = "none";
+          }
+      }
+    </script>
+
+  </body>
+</html>

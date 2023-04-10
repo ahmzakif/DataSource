@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <course_content>
+        <course_id>BIO-101</course_id>
+        <title>Intro. to Biology</title>
+        <dept_name>Biology</dept_name>
+        <credits>4</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>BIO-301</course_id>
+        <title>Genetics</title>
+        <dept_name>Biology</dept_name>
+        <credits>4</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>BIO-399</course_id>
+        <title>Computational Biology</title>
+        <dept_name>Biology</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>CS-101</course_id>
+        <title>Intro. to Computer Science</title>
+        <dept_name>Computer Science</dept_name>
+        <credits>4</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>CS-190</course_id>
+        <title>Game Design</title>
+        <dept_name>Computer Science</dept_name>
+        <credits>4</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>CS-315</course_id>
+        <title>Robotics</title>
+        <dept_name>Computer Science</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>CS-319</course_id>
+        <title>Image Processing</title>
+        <dept_name>Computer Science</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>CS-347</course_id>
+        <title>Database System Concepts</title>
+        <dept_name>Computer Science</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>EE-181</course_id>
+        <title>Intro. to Digital Systems</title>
+        <dept_name>Electrical Engineering</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>FIN-201</course_id>
+        <title>Invesment Banking</title>
+        <dept_name>Finance</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>HIS-351</course_id>
+        <title>World History</title>
+        <dept_name>History</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>MU-199</course_id>
+        <title>Music Video Production</title>
+        <dept_name>Music</dept_name>
+        <credits>3</credits>
+    </course_content>
+    
+    <course_content>
+        <course_id>PHY-101</course_id>
+        <title>Physical Principles</title>
+        <dept_name>Physisc</dept_name>
+        <credits>4</credits>
+    </course_content>
+</data>
+
+
+  
